@@ -1,0 +1,11 @@
+div {
+    padding-left: 13.5%;
+    display: block;
+    width: 600px;
+}
+p {
+    text-align: justify;
+}
+li {
+    list-style-type: none;
+  }

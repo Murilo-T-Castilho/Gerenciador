@@ -1,0 +1,10 @@
+{
+    "firebaseConfig": {
+        "apiKey": "AIzaSyATnzolzW0FWr77vcq3rh9D1eH5j4brN_s",
+        "authDomain": "gerenciador-567fb.firebaseapp.com",
+        "projectId": "gerenciador-567fb",
+        "storageBucket": "gerenciador-567fb.appspot.com",
+        "messagingSenderId": "1093855939706",
+        "appId": "1:1093855939706:web:fa196e253aa7d5e5473fc3"
+    }
+}
